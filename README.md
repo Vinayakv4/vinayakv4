@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=440&height=40&lines=BCA+Student+%40+FMNC;Full-Stack+%26+Android+Developer;Building+with+AI+%2B+LLMs;Turning+Ideas+into+Apps+%F0%9F%9A%80" alt="Typing SVG" width="90%"/>
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Vinayakv4&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Vinayakv4?label=Followers&style=for-the-badge&color=6366f1" alt="followers"/>
-
 </div>
 
 ---
@@ -38,9 +33,9 @@
 
 <div align="center">
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI_API_Integration-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-F59E0B?style=for-the-badge&logo=opencv&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-F59E0B?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
@@ -51,19 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinayakv4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" width="48%" style="max-width:400px;min-width:280px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakv4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&cache_seconds=86400" width="48%" style="max-width:400px;min-width:280px;" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Vinayakv4&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899" width="90%" style="max-width:500px;" />
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Vinayakv4&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="90%" style="max-width:560px;" />
 
 </div>
 
