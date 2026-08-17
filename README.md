@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hey,%20I%27m%20Vinayak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Android%20Developer%20%7C%20AI%20%2B%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Hey, I'm Vinayak 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=440&height=40&lines=BCA+Student+%40+FMNC;Full-Stack+%26+Android+Developer;Building+with+AI+%2B+LLMs;Turning+Ideas+into+Apps+%F0%9F%9A%80" alt="Typing SVG" width="90%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=380&height=90&multiline=true&lines=BCA+Student+%40+FMNC;Full-Stack+%26+Android+Dev;Building+with+AI+%2B+LLMs;Turning+Ideas+into+Apps+%F0%9F%9A%80" alt="Typing SVG" width="95%" style="max-width:420px;"/>
 </a>
 
 </div>
@@ -35,7 +35,7 @@
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI_API_Integration-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-F59E0B?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Android Development](https://img.shields.io/badge/Android_Development-F59E0B?style=for-the-badge&logo=android&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
