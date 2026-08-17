@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Vinayak%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Android%20Developer%20%7C%20AI%20%2B%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hey,%20I%27m%20Vinayak%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Android%20Developer%20%7C%20AI%20%2B%20Web%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=440&height=40&lines=BCA+Student+%40+FMNC;Full-Stack+%26+Android+Developer;Building+with+AI+%2B+LLMs;Turning+Ideas+into+Apps+%F0%9F%9A%80" alt="Typing SVG" width="90%"/>
@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinayakv4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%" style="max-width:400px;min-width:280px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakv4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="48%" style="max-width:400px;min-width:280px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vinayakv4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" width="48%" style="max-width:400px;min-width:280px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakv4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&cache_seconds=86400" width="48%" style="max-width:400px;min-width:280px;" />
 
 <br/>
 
